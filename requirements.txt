@@ -1,0 +1,36 @@
+# Document parsing
+PyPDF2==3.0.1
+pdfplumber==0.9.0
+python-docx==0.8.11
+python-pptx==0.6.21
+markdown==3.5.1
+
+# AI/LLM & Embeddings
+openai==1.3.0
+langchain==0.1.0
+transformers==4.35.0
+sentence-transformers==2.2.2
+
+# NLP
+nltk==3.8.1
+spacy==3.7.2
+
+# Vision & OCR
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+Pillow==10.0.1
+
+# Data handling
+pandas==2.1.3
+numpy==1.24.3
+
+# API & Web
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+streamlit==1.29.0
+
+# Utilities & Testing
+pytest==7.4.3
+python-dotenv==1.0.0
+loguru==0.7.2

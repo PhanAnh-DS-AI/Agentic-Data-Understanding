@@ -27,6 +27,10 @@ The system uses a multi-agent approach where different specialized agents coordi
 4. **Table Agent**: Detects and analyzes tabular data
 5. **Summary Agent**: Generates final comprehensive summaries
 
+### 🔄 Processing Pipeline
+
+![Architecture Processing Pipeline](Data-Understanding-Workflow.png)
+
 ## 📁 Project Structure
 
 ```
